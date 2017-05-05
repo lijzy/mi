@@ -48,7 +48,7 @@
 	        <div class="panel-title">个人工作台</div>
 	        <div class="panel-content">
 				<ul>
-					<li><a href="${ctx}/staticfile/tomain.action?modelName=home" target="main" id="aa_3" onclick="linkHighlighted(this)">米</a></li>
+					<li><a href="${ctx}/staticfile/tomain.action?modelName=home" target="main" id="aa_3" onclick="linkHighlighted(this)">米1</a></li>
 					<li><a href="${ctx}/staticfile/home/workflow/tasklist.action" target="main" id="aa_2" onclick="linkHighlighted(this)">我的代办任务</a></li>
 					<li><a href="${ctx}/staticfile/baseinfo/leavebill/list.action" target="main" id="aa_1" onclick="linkHighlighted(this)">请假单管理</a></li>
 				</ul>
