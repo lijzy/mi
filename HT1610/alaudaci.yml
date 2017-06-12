@@ -11,4 +11,3 @@ ci:
     - ls -l
     - cp target/*.war $ALAUDACI_DEST_DIR
     - cp Dockerfile $ALAUDACI_DEST_DIR
-    - cp target/*.war $ALAUDACI_UPLOAD_DIR
