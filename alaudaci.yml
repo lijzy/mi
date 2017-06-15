@@ -7,7 +7,5 @@ ci:
     - cd HT1610
     - mvn install
     - mvn package
-    - pwd
-    - ls -l
     - cp target/*.war $ALAUDACI_DEST_DIR
     - cp Dockerfile $ALAUDACI_DEST_DIR
